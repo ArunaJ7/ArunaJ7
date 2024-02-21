@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Aruna Jayaweera</h1>
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
-<div align="center">
-  
-<img src="https://komarev.com/ghpvc/?username=arunaj7" alt="proviews" /> 
-  
-</div>
+<h1 align="center">Hi 👋, I'm Aruna Jayaweera</h1>
 <h3 align="center">Passionate IT Student</h3>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=arunaj7" alt="proviews" /> 
+</div>
+
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
