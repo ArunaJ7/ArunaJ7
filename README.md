@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 <h1 align="center">Hi 👋, I'm Aruna Jayaweera</h1>
-<h3 align="center">Passionate IT Student</h3>
+<h3 align="center">IT enthusiast | Digital explorer</h3>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=arunaj7" alt="proviews" /> 
 </div>
